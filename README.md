@@ -1,8 +1,5 @@
-## Introduction
-The is an obj visualizer that helps illustrate the functions of the model
-view and projection matrices by giving the user the ability to manipulate
-the position and orientation of objects in space. It also applies some shading
-techniques to give the illusion of lighting.
+# ModelViewer
+3D Model Viewer implemented with OpenGL and ImGui
 
 ## Author
 **Alejandro Fernandez**
