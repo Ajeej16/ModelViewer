@@ -4,7 +4,6 @@
 ## Author
 **Alejandro Fernandez**
 - Contact: alejandr.fernand@ufl.edu
-- GitHub: ajeejuf
 
 ### Build Instructions
 1. Clone the repository: `git clone [repository URL]`
