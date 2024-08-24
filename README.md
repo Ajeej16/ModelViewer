@@ -7,7 +7,7 @@
 
 ### Build Instructions
 1. Clone the repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd ModelViwer`
+2. Navigate to the project directory: `cd ModelViewer`
 3. Navigate to the project scripts: `cd scripts`
 4. Run the batch script `.\build.bat`
 5. Navigate to the build directory and run the executable or run debug script to
