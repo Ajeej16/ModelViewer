@@ -1,9 +1,13 @@
 # ModelViewer
-3D Model Viewer implemented with OpenGL and ImGui
+This project is a 3D model viewer implemented using OpenGL and ImGui for the user interface. It provides an interactive environment 
+to load and view 3D models, with real-time control over shader parameters and lighting. The viewer supports loading models and allows 
+users to manipulate their transformations, including translation, rotation, and scaling, to explore the models from different perspectives.
 
-## Author
-**Alejandro Fernandez**
-- Contact: alejandr.fernand@ufl.edu
+![OpenGL Viewer Guitar Example](./images/img0.png) 
+
+![OpenGL Viewer Cow Example](./images/img1.png) 
+
+![OpenGL Viewer Curve Example](./images/img2.png) 
 
 ### Build Instructions
 1. Clone the repository: `git clone [repository URL]`
